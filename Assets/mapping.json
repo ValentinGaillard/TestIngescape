@@ -1,0 +1,12 @@
+{
+	"mapping": {
+		"name": "MappingStringUnity",
+		"description": "This mapping is the one for UnityAgent",
+		"version": "0.1",
+		"mapping_out": [{
+			"input_name": "stringEntry",
+			"agent_name": "WpfAgent",
+			"output_name": "string"
+		}]
+	}
+}
